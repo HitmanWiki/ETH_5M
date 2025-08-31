@@ -1,0 +1,15 @@
+2025-08-31 14:28:53,509 - INFO - Connected to coinex for market data
+2025-08-31 14:28:53,509 - INFO - Initialized simulation with $200.00 USDT
+2025-08-31 14:28:53,510 - INFO - Starting Realistic Trading Simulation...
+2025-08-31 14:28:53,510 - INFO - Symbol: ETH/USDT
+2025-08-31 14:28:53,510 - INFO - Timeframe: 5m
+2025-08-31 14:28:53,511 - INFO - Initial Balance: $200.00
+2025-08-31 14:28:53,511 - INFO - Commission: 0.1% + Slippage: 0.1%
+2025-08-31 14:28:57,953 - INFO - Price: $4470.30 | Fast MA: $4452.91 | Slow MA: $4405.72 | ATR: $5.05 | Signal: BUY
+2025-08-31 14:28:57,954 - INFO - Calculated position size: 0.000089 ETH
+2025-08-31 14:28:57,954 - INFO - SIMULATED BUY: 0.000089 ETH @ $4474.77
+2025-08-31 14:28:57,954 - INFO - Cost: $0.40 + Commission: $0.0004
+2025-08-31 14:28:57,955 - INFO - New Balance: $199.60 USDT + 0.000089 ETH
+2025-08-31 14:28:57,955 - INFO - Stop loss set at: $4460.21
+2025-08-31 14:28:57,955 - INFO - Waiting for next 5-minute candle...
+2025-08-31 14:29:02,791 - INFO - Simulation stopped by user

@@ -9,10 +9,10 @@ from typing import Dict, List, Optional
 
 # --- Configuration ---
 class Config:
-    EXCHANGE = 'binance'  # Use Binance for reliable data
+    EXCHANGE = 'coinex'  # Use Binance for reliable data
     SYMBOL = 'ETH/USDT'
     TIMEFRAME = '5m'
-    INITIAL_BALANCE = 200.0  # USDT starting balance
+    INITIAL_BALANCE = 1000.0  # USDT starting balance
     
     # Strategy Parameters
     FAST_MA = 50
